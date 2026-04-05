@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Empire_Official.aternos.me:14181",
+    "ip": "Empire_Official.aternos.me",
     "port": 14181,
     "version": "1.21.11",
     "try-creative": false
